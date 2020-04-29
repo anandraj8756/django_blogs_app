@@ -6,3 +6,5 @@ for name in names:
 
 import cv2
 import numpy 
+
+print("All is working fine")
