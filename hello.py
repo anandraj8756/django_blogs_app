@@ -11,4 +11,6 @@ print("All is working fine")
 
 Print("Develop a Website where you publish Article!")
 
+def home():
+	return home
 
